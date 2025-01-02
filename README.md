@@ -44,7 +44,7 @@ Zustand/Redux: State management (if applicable).
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/spotify-clone.git
+git clone
 cd spotify-clone
 
 Install Dependencies:
