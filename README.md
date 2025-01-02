@@ -1,8 +1,8 @@
-##Spotify Clone
+## Spotify Clone
 
 A responsive Spotify clone built with React, TypeScript, and Vite. This project replicates core features of Spotify, including music playback, playlists, and user authentication.
 
-#Features
+# Features
 
 Music Playback: Stream songs with a sleek audio player.
 
@@ -14,9 +14,9 @@ Responsive Design: Optimized for desktop and mobile devices.
 
 Search Functionality: Search for songs, artists, and albums.
 
-#Tech Stack
+# Tech Stack
 
-#Frontend:
+# Frontend:
 
 React: Library for building the user interface.
 
@@ -26,9 +26,9 @@ Vite: Fast development build tool.
 
 Tailwind CSS: For styling and responsive design.
 
-#Backend:
+# Backend:
 
-Node.js and Express (optional, for APIs).
+Node.js and Express 
 
 Integration with a mock API or third-party API (like Spotify Web API).
 
@@ -40,7 +40,7 @@ React Router: For routing.
 
 Zustand/Redux: State management (if applicable).
 
-#Installation
+# Installation
 
 Clone the Repository:
 
@@ -53,7 +53,7 @@ npm install
  or
 yarn install
 
-#Set Up Environment Variables:
+# Set Up Environment Variables:
 Create a .env file in the root directory and add the following variables:
 
 VITE_API_URL=<your-api-url>
