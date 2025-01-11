@@ -26,6 +26,12 @@ Vite: Fast development build tool.
 
 Tailwind CSS: For styling and responsive design.
 
+### Setup .env file in _frontend_ folder
+
+```bash
+VITE_CLERK_PUBLISHABLE_KEY=...
+```
+
 # Backend:
 
 Node.js and Express 
@@ -39,6 +45,24 @@ Axios: For API calls.
 React Router: For routing.
 
 Zustand/Redux: State management (if applicable).
+
+## Setup .env file in _backend_ folder
+
+```bash
+PORT=...
+MONGODB_URI=...
+ADMIN_EMAIL=...
+NODE_ENV=...
+
+CLOUDINARY_API_KEY=...
+CLOUDINARY_API_SECRET=...
+CLOUDINARY_CLOUD_NAME=...
+
+
+CLERK_PUBLISHABLE_KEY=...
+CLERK_SECRET_KEY=...
+```
+
 
 # Installation
 
